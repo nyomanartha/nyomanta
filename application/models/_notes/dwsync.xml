@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="index.html" server="C:/xampp/htdocs/nyomanta/" local="129663967580000000" remote="129663967580000000" Dst="0" />
-<file name="carousel_model.php" server="C:/xampp/htdocs/nyomanta/" local="130554813540000000" remote="130554813540000000" Dst="0" />
-<file name="category_model.php" server="C:/xampp/htdocs/nyomanta/" local="130554813540000000" remote="130554813540000000" Dst="0" />
-<file name="question_model.php" server="C:/xampp/htdocs/nyomanta/" local="130563371993314992" remote="130563371990000000" Dst="0" />
-<file name="seo_model.php" server="C:/xampp/htdocs/nyomanta/" local="130554813540000000" remote="130554813540000000" Dst="0" />
-<file name="about_model.php" server="C:/xampp/htdocs/nyomanta/" local="130554813540000000" remote="130554813540000000" Dst="0" />
-<file name="coreteam_model.php" server="C:/xampp/htdocs/nyomanta/" local="130554813540000000" remote="130554813540000000" Dst="0" />
-<file name="modteam_model.php" server="C:/xampp/htdocs/nyomanta/" local="130554813540000000" remote="130554813540000000" Dst="0" />
+<file name="index.html" server="C:/xampp/htdocs/nyomanta/" local="130565159850753412" remote="130565159850000000" Dst="0" />
+<file name="carousel_model.php" server="C:/xampp/htdocs/nyomanta/" local="130565159850743405" remote="130565159850000000" Dst="0" />
+<file name="category_model.php" server="C:/xampp/htdocs/nyomanta/" local="130565159850743405" remote="130565159850000000" Dst="0" />
+<file name="question_model.php" server="C:/xampp/htdocs/nyomanta/" local="130578285375326155" remote="130578285370000000" Dst="0" />
+<file name="seo_model.php" server="C:/xampp/htdocs/nyomanta/" local="130565159850763399" remote="130565159850000000" Dst="0" />
+<file name="about_model.php" server="C:/xampp/htdocs/nyomanta/" local="130565159850743405" remote="130565159850000000" Dst="0" />
+<file name="coreteam_model.php" server="C:/xampp/htdocs/nyomanta/" local="130565159850753412" remote="130565159850000000" Dst="0" />
+<file name="modteam_model.php" server="C:/xampp/htdocs/nyomanta/" local="130565159850753412" remote="130565159850000000" Dst="0" />
 <file name="about_model.php" server="C:/xampp/htdocs/tempatles/" local="130545300820000000" remote="130545300820000000" Dst="0" />
 <file name="carousel_model.php" server="C:/xampp/htdocs/tempatles/" local="130548940260000000" remote="130548940260000000" Dst="0" />
 <file name="category_model.php" server="C:/xampp/htdocs/tempatles/" local="130548936880000000" remote="130548936880000000" Dst="0" />
@@ -17,9 +17,9 @@
 <file name="question_model.php" server="C:/xampp/htdocs/tempatles/" local="130553357180000000" remote="130553357180000000" Dst="0" />
 <file name="seo_model.php" server="C:/xampp/htdocs/tempatles/" local="130544675500000000" remote="130544675500000000" Dst="0" />
 <file name="user_model.php" server="C:/xampp/htdocs/tempatles/" local="130552273100000000" remote="130552273100000000" Dst="0" />
-<file name="user_model.php" server="C:/xampp/htdocs/nyomanta/" local="130563367487207257" remote="130563367480000000" Dst="0" />
-<file name="admin_model.php" server="C:/xampp/htdocs/nyomanta/" local="130554813540000000" remote="130554813540000000" Dst="0" />
+<file name="user_model.php" server="C:/xampp/htdocs/nyomanta/" local="130565159850763399" remote="130565159850000000" Dst="0" />
+<file name="admin_model.php" server="C:/xampp/htdocs/nyomanta/" local="130565159850743405" remote="130565159850000000" Dst="0" />
 <file name="admin_model.php" server="C:/xampp/htdocs/tempatles/" local="130553329160000000" remote="130553329160000000" Dst="0" />
-<file name="tmpresult_model.php" server="C:/xampp/htdocs/nyomanta/" local="130563368165466051" remote="130563368160000000" Dst="0" />
-<file name="option_model.php" server="C:/xampp/htdocs/nyomanta/" local="130563369340963286" remote="130563369340000000" Dst="0" />
+<file name="tmpresult_model.php" server="C:/xampp/htdocs/nyomanta/" local="130578300348699137" remote="130578300340000000" Dst="0" />
+<file name="option_model.php" server="C:/xampp/htdocs/nyomanta/" local="130565159850753412" remote="130565159850000000" Dst="0" />
 </dwsync>

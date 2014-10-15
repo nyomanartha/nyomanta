@@ -29,4 +29,16 @@ class Tmpresult_model extends CI_Model
 	{
 		$this->db->insert('tbltmpresult',$dataResult);
 	}
+	
+	function updatedataresult($dataResult,$idresult)
+	{
+		$this->db->where('idresult',$idresult);
+		$this->db->update('tbltmpresult',$dataResult);
+	}
+	
+	function clearTable()
+	{
+		//Mengosongkan isi tabel tbltmpresult
+		$this->db->truncate('tbltmpresult');
+	}
 }

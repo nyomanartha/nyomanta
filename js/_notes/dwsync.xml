@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="bootstrap.js" server="C:/xampp/htdocs/nyomanta/" local="130548811720000000" remote="130548811720000000" Dst="0" />
-<file name="bootstrap.min.js" server="C:/xampp/htdocs/nyomanta/" local="130482224520000000" remote="130482224520000000" Dst="0" />
-<file name="jquery-1.11.1.js" server="C:/xampp/htdocs/nyomanta/" local="130543809620000000" remote="130543809620000000" Dst="0" />
-<file name="owl.carousel.js" server="C:/xampp/htdocs/nyomanta/" local="130443872980000000" remote="130443872980000000" Dst="0" />
+<file name="bootstrap.js" server="C:/xampp/htdocs/nyomanta/" local="130565159851463865" remote="130565159850000000" Dst="0" />
+<file name="bootstrap.min.js" server="C:/xampp/htdocs/nyomanta/" local="130565159851473931" remote="130565159850000000" Dst="0" />
+<file name="jquery-1.11.1.js" server="C:/xampp/htdocs/nyomanta/" local="130565159851543922" remote="130565159850000000" Dst="0" />
+<file name="owl.carousel.js" server="C:/xampp/htdocs/nyomanta/" local="130565159851964427" remote="130565159850000000" Dst="0" />
 <file name="bootstrap.js" server="C:/xampp/htdocs/tempatles/" local="130548775720000000" remote="130548775720000000" Dst="0" />
 <file name="bootstrap.min.js" server="C:/xampp/htdocs/tempatles/" local="130482188520000000" remote="130482188520000000" Dst="0" />
 <file name="jquery-1.11.1.js" server="C:/xampp/htdocs/tempatles/" local="130543773620000000" remote="130543773620000000" Dst="0" />
@@ -12,10 +12,10 @@
 <file name="jquery.tablesorter.widgets.js" server="C:/xampp/htdocs/tempatles/" local="130520214020000000" remote="130520214020000000" Dst="0" />
 <file name="bootstrap-table.js" server="C:/xampp/htdocs/tempatles/" local="130546466500000000" remote="130546466500000000" Dst="0" />
 <file name="jquery.dataTables.min.js" server="C:/xampp/htdocs/tempatles/" local="130525887120000000" remote="130525887120000000" Dst="0" />
-<file name="bootstrap-table.js" server="C:/xampp/htdocs/nyomanta/" local="130546502500000000" remote="130546502500000000" Dst="0" />
-<file name="jquery.dataTables.min.js" server="C:/xampp/htdocs/nyomanta/" local="130525923120000000" remote="130525923120000000" Dst="0" />
-<file name="jquery.tablesorter.js" server="C:/xampp/htdocs/nyomanta/" local="130520250020000000" remote="130520250020000000" Dst="0" />
-<file name="jquery.tablesorter.widgets.js" server="C:/xampp/htdocs/nyomanta/" local="130520250020000000" remote="130520250020000000" Dst="0" />
+<file name="bootstrap-table.js" server="C:/xampp/htdocs/nyomanta/" local="130565159851453878" remote="130565159850000000" Dst="0" />
+<file name="jquery.dataTables.min.js" server="C:/xampp/htdocs/nyomanta/" local="130565159851553933" remote="130565159850000000" Dst="0" />
+<file name="jquery.tablesorter.js" server="C:/xampp/htdocs/nyomanta/" local="130565159851563936" remote="130565159850000000" Dst="0" />
+<file name="jquery.tablesorter.widgets.js" server="C:/xampp/htdocs/nyomanta/" local="130565159851573938" remote="130565159850000000" Dst="0" />
 <file name="bootstrapValidator.js" server="C:/xampp/htdocs/tempatles/" local="130531713100000000" remote="130531713100000000" Dst="0" />
 <file name="bootstrapValidator.min.js" server="C:/xampp/htdocs/tempatles/" local="130531713100000000" remote="130531713100000000" Dst="0" />
 <file name="bootstrap-modal.js" server="C:/xampp/htdocs/tempatles/" local="130451877460000000" remote="130451877460000000" Dst="0" />
@@ -23,12 +23,12 @@
 <file name="tinymce.min.js" server="C:/xampp/htdocs/tempatles/" local="130547046060000000" remote="130547046060000000" Dst="0" />
 <file name="license.txt" server="C:/xampp/htdocs/tempatles/" local="130547046060000000" remote="130547046060000000" Dst="0" />
 <file name="bootstrap-hover-dropdown.js" server="C:/xampp/htdocs/tempatles/" local="130531468880000000" remote="130531468880000000" Dst="0" />
-<file name="bootstrap-hover-dropdown.js" server="C:/xampp/htdocs/nyomanta/" local="130531504880000000" remote="130531504880000000" Dst="0" />
-<file name="bootstrap-modal.js" server="C:/xampp/htdocs/nyomanta/" local="130451913460000000" remote="130451913460000000" Dst="0" />
-<file name="bootstrap-modalmanager.js" server="C:/xampp/htdocs/nyomanta/" local="130451913460000000" remote="130451913460000000" Dst="0" />
-<file name="bootstrapValidator.js" server="C:/xampp/htdocs/nyomanta/" local="130531749100000000" remote="130531749100000000" Dst="0" />
-<file name="bootstrapValidator.min.js" server="C:/xampp/htdocs/nyomanta/" local="130531749100000000" remote="130531749100000000" Dst="0" />
-<file name="license.txt" server="C:/xampp/htdocs/nyomanta/" local="130547082060000000" remote="130547082060000000" Dst="0" />
-<file name="tinymce.min.js" server="C:/xampp/htdocs/nyomanta/" local="130547082060000000" remote="130547082060000000" Dst="0" />
-<file name="jquery.twbsPagination.min.js" server="C:/xampp/htdocs/nyomanta/" local="130547126740000000" remote="130547126740000000" Dst="0" />
+<file name="bootstrap-hover-dropdown.js" server="C:/xampp/htdocs/nyomanta/" local="130565159851433849" remote="130565159850000000" Dst="0" />
+<file name="bootstrap-modal.js" server="C:/xampp/htdocs/nyomanta/" local="130565159851443872" remote="130565159850000000" Dst="0" />
+<file name="bootstrap-modalmanager.js" server="C:/xampp/htdocs/nyomanta/" local="130565159851443872" remote="130565159850000000" Dst="0" />
+<file name="bootstrapValidator.js" server="C:/xampp/htdocs/nyomanta/" local="130565159851493881" remote="130565159850000000" Dst="0" />
+<file name="bootstrapValidator.min.js" server="C:/xampp/htdocs/nyomanta/" local="130565159851503892" remote="130565159850000000" Dst="0" />
+<file name="license.txt" server="C:/xampp/htdocs/nyomanta/" local="130565159851914378" remote="130565159850000000" Dst="0" />
+<file name="tinymce.min.js" server="C:/xampp/htdocs/nyomanta/" local="130565159852544798" remote="130565159850000000" Dst="0" />
+<file name="jquery.twbsPagination.min.js" server="C:/xampp/htdocs/nyomanta/" local="130565159851573938" remote="130565159850000000" Dst="0" />
 </dwsync>

@@ -52,6 +52,20 @@ class Question_model extends CI_Model
 		return $this->db->get($this->rawquestion);
 	}
 	
+	function get_all_exam_tmp($limit,$offset)
+	{
+		$this->db->select("*");
+		$this->db->from('tbltmpresult');
+		$this->db->join('tblquestion','tbltmpresult.qst_id=tblquestion.qst_id');
+		$this->db->limit($limit,$offset);
+		return $this->db->get();
+	}
+	
+	function total_exam_tmp()
+	{
+		return $this->db->count_all('tbltmpresult');
+	}
+	
 	function getquestionlimit($limit,$offset)
 	{
 		$this->db->limit($limit,$offset);

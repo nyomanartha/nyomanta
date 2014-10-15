@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="index.html" server="C:/xampp/htdocs/nyomanta/" local="129663967580000000" remote="129663967580000000" Dst="0" />
-<file name="welcome.php" server="C:/xampp/htdocs/nyomanta/" local="130458283840000000" remote="130458283840000000" Dst="0" />
-<file name="web_controller.php" server="C:/xampp/htdocs/nyomanta/" local="130563504419504801" remote="130563504410000000" Dst="0" />
-<file name="exam_controller.php" server="C:/xampp/htdocs/nyomanta/" local="130563504289297353" remote="130563504280000000" Dst="0" />
-<file name="about_controller.php" server="C:/xampp/htdocs/nyomanta/" local="130563503646050562" remote="130563503640000000" Dst="0" />
+<file name="index.html" server="C:/xampp/htdocs/nyomanta/" local="130565159850633308" remote="130565159850000000" Dst="0" />
+<file name="welcome.php" server="C:/xampp/htdocs/nyomanta/" local="130565159850643346" remote="130565159850000000" Dst="0" />
+<file name="web_controller.php" server="C:/xampp/htdocs/nyomanta/" local="130565159850643346" remote="130565159850000000" Dst="0" />
+<file name="exam_controller.php" server="C:/xampp/htdocs/nyomanta/" local="130578316726844981" remote="130578316720000000" Dst="0" />
+<file name="about_controller.php" server="C:/xampp/htdocs/nyomanta/" local="130565159850593289" remote="130565159850000000" Dst="0" />
 <file name="about_controller.php" server="C:/xampp/htdocs/tempatles/" local="130545498480000000" remote="130545498480000000" Dst="0" />
 <file name="exam_controller.php" server="C:/xampp/htdocs/tempatles/" local="130553357600000000" remote="130553357600000000" Dst="0" />
 <file name="index.html" server="C:/xampp/htdocs/tempatles/" local="129663931580000000" remote="129663931580000000" Dst="0" />
 <file name="web_controller.php" server="C:/xampp/htdocs/tempatles/" local="130545497920000000" remote="130545497920000000" Dst="0" />
 <file name="welcome.php" server="C:/xampp/htdocs/tempatles/" local="130458247840000000" remote="130458247840000000" Dst="0" />
 <file name="adminlogin_controller.php" server="C:/xampp/htdocs/tempatles/" local="130553329040000000" remote="130553329040000000" Dst="0" />
-<file name="adminlogin_controller.php" server="C:/xampp/htdocs/nyomanta/" local="130554813540000000" remote="130554813540000000" Dst="0" />
-<file name="user_controller.php" server="C:/xampp/htdocs/nyomanta/" local="130563524823931867" remote="130563524820000000" Dst="0" />
+<file name="adminlogin_controller.php" server="C:/xampp/htdocs/nyomanta/" local="130565159850623301" remote="130565159850000000" Dst="0" />
+<file name="user_controller.php" server="C:/xampp/htdocs/nyomanta/" local="130565159850643346" remote="130565159850000000" Dst="0" />
 </dwsync>

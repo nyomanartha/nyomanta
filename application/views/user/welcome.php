@@ -1,1 +1,1 @@
-welcome
+welcome <?php echo $this->session->userdata('sess_usr_name'); ?>
